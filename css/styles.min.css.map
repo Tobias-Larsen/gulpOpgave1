@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,cAAe","file":"styles.min.css","sourcesContent":["body{\r\n  height: 500px;\r\n  background: red;\r\n}"]}
